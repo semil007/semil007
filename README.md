@@ -1,66 +1,26 @@
-# Hi, I'm Semil 👋
+# Hi, I'm Semil
 
-### ML Engineer • LLMs • RAG • GPU Inference
+**ML Engineer** building production AI systems around **LLMs, RAG, GPU inference, and self-hosted AI infrastructure**.
 
-I'm an ML Engineer from India who enjoys building AI systems that move from research to production.
+I enjoy taking ideas from research to production by building scalable backend services, deploying self-hosted language models on private cloud and on-premise servers, and delivering native AI applications with high availability, low latency, and reliable inference.
 
-Most of my work revolves around Large Language Models, Retrieval-Augmented Generation (RAG), GPU training & inference, self-hosted AI infrastructure, and backend engineering. I enjoy understanding how systems work under the hood and improving them through experimentation.
+## Focus
 
----
+- Production AI Applications
+- AI Agents & Agentic Workflows
+- Retrieval-Augmented Generation (RAG)
+- Self-hosted LLMs
+- GPU Training & Inference
+- Model Serving (vLLM)
+- FastAPI & AI Backend Services
+- Private Cloud & On-Premise AI Infrastructure
 
-## 🚀 What I Enjoy Building
+## Tech
 
-- 🤖 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤝 AI Agents
-- ⚡ GPU Training & Inference
-- 🚀 vLLM & Model Serving
-- 🖥️ Self-hosted AI Infrastructure
-- 🐳 Docker Deployments
-- 🔌 FastAPI Services
-- 🗄️ Redis, PostgreSQL & Qdrant
+`Python` • `PyTorch` • `Transformers` • `vLLM` • `FastAPI` • `Docker` • `Linux` • `Redis` • `PostgreSQL` • `Qdrant` • `GCP` • `Azure`
 
----
+## Connect
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | Python • SQL • Bash |
-| **AI / ML** | PyTorch • Hugging Face • Transformers • PEFT • LoRA |
-| **LLMs** | RAG • Embeddings • Prompt Engineering • vLLM • Ollama |
-| **Backend** | FastAPI • Redis • PostgreSQL • Qdrant |
-| **Infrastructure** | Docker • Linux • Git • GCP • Azure |
-
----
-
-## 🌱 Currently Exploring
-
-- Distributed GPU inference
-- CUDA fundamentals
-- Model optimization
-- Multi-agent systems
-- Production AI architectures
-
----
-
-## 💡 Things I've Learned by Building
-
-- Self-hosting open-source LLMs
-- Playing with GPUs for training and inference
-- Building production-ready RAG systems
-- Optimizing inference latency and memory usage
-- Fine-tuning language models
-- Deploying AI services with Docker
-- Turning research ideas into production software
-
----
-
-## 🌐 Connect With Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/semil-p/
-- 🌍 **Portfolio:** https://getsemil.com
-
----
-
-> *I enjoy building practical AI systems, learning continuously, and sharing what I discover along the way.*
+🌐 Portfolio: https://getsemil.com  
+💼 LinkedIn: https://www.linkedin.com/in/semil-p/  
+🌐 Email: semilpm@gmail.com
