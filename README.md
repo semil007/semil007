@@ -1,52 +1,87 @@
-# Hi, I'm Semil
+<h1 align="center">Semil Periyasamy</h1>
+<h3 align="center">ML Engineer — LLMs, RAG, GPU Inference & Self-Hosted AI Infrastructure</h3>
 
-**ML Engineer** building production AI systems around **LLMs, RAG, GPU inference, and self-hosted AI infrastructure**.
+<p align="center">
+ML Engineer specializing in <b>large language models (LLMs)</b>, <b>retrieval-augmented generation (RAG)</b>, <b>GPU inference optimization</b>, and <b>self-hosted AI infrastructure</b>. I build production AI systems end-to-end — from model training and fine-tuning to scalable backend services and deployment on private cloud and on-premise servers. Open source contributor to <b>vLLM</b>, with applied ML work spanning healthcare AI and career-tech platforms.
+</p>
 
-I enjoy taking ideas from research to production by building scalable backend services, deploying self-hosted language models on private cloud and on-premise servers, and delivering native AI applications.
+<p align="center">
+<a href="https://getsemil.com"><img src="https://img.shields.io/badge/Portfolio-getsemil.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/semil-p/"><img src="https://img.shields.io/badge/LinkedIn-semil--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:semilpm@gmail.com"><img src="https://img.shields.io/badge/Email-semilpm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## Focus
+---
 
-- Production AI Applications
-- AI Agents & Agentic Workflows
-- Retrieval-Augmented Generation (RAG)
-- Self-hosted LLMs
-- GPU Training & Inference
-- Model Serving (vLLM)
-- FastAPI & AI Backend Services
-- Private Cloud & On-Premise AI Infrastructure
+## 🛠️ Tech Stack
 
-## Tech
+Python · PyTorch · Transformers · vLLM · FastAPI · Docker · Linux · Redis · PostgreSQL · Qdrant · Google Cloud · Azure
 
-`Python` • `PyTorch` • `Transformers` • `vLLM` • `FastAPI` • `Docker` • `Linux` • `Redis` • `PostgreSQL` • `Qdrant` • `GCP` • `Azure`
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/vLLM-00A67E?style=flat-square&logo=vllm&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
 
-## 🚀 Open Source Contributions & Projects
+---
 
-### Core ML Infrastructure
-- 🔧 **[vLLM](https://github.com/semil007/vllm)** - High-throughput and memory-efficient inference and serving engine for LLMs
-- 🧠 **[llm.c](https://github.com/semil007/llm.c)** - LLM training in simple, raw C/CUDA for optimal performance
-- 📚 **[augmentoolkit](https://github.com/semil007/augmentoolkit)** - Create custom LLMs tailored to your needs
+## 🌟 Open Source Contributions
 
-### AI Applications & Tools
-- 💼 **[jpliot](https://github.com/semil007/jpliot)** - Local-first AI job applier with resume tailoring and ATS scoring. Runs on Ollama (Qwen, Llama, Mistral)
-- 📄 **[ocr-lastest](https://github.com/semil007/ocr-lastest)** - Advanced OCR with layout analysis, reading order, and table recognition in 90+ languages
-- 🎭 **[face-antispoof-onnx](https://github.com/semil007/face-antispoof-onnx)** - Ultra-lightweight face anti-spoofing classifier (~98% accuracy, 600KB)
-- 👁️ **[Eye Disease Detection](https://github.com/semil007/Eye-_Disease_detection_by_cnn)** - CNN-based eye disease detection from medical imaging
+Open source contributor to widely-used, production-grade ML infrastructure and healthcare AI projects.
 
-### Healthcare & Medical AI
-- 🏥 **[Google Medical](https://github.com/semil007/google-medical)** - Medical AI and healthcare solutions leveraging state-of-the-art models
+<table>
+<tr>
+<td width="90"><img src="https://avatars.githubusercontent.com/u/136984999?s=200&v=4" width="60" /></td>
+<td>
+<b><a href="https://github.com/semil007/vllm">vLLM</a></b> — Industry-standard, high-throughput LLM inference and serving engine used in production by major AI companies and research labs.<br/>
+<i>Contribution: inference optimization & serving infrastructure</i>
+</td>
+</tr>
+<tr>
+<td width="90"><img src="https://img.shields.io/badge/-Health-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="70" /></td>
+<td>
+<b><a href="https://github.com/semil007/google-medical">Google Health / Medical AI</a></b> — Applied state-of-the-art foundation models to healthcare and medical imaging use cases.<br/>
+<i>Contribution: medical AI model integration & evaluation</i>
+</td>
+</tr>
+<tr>
+<td width="90"><img src="https://img.shields.io/badge/-Career-6E40C9?style=flat-square&logo=target&logoColor=white" width="70" /></td>
+<td>
+<b><a href="https://github.com/semil007/careerops">CareerOps</a></b> — Open-source career operations platform helping engineers manage job search workflows at scale.<br/>
+<i>Contribution: platform engineering & AI-driven career tooling</i>
+</td>
+</tr>
+</table>
 
-### Career & Development
-- 🎓 **[CareerOps](https://github.com/semil007/careerops)** - Career operations and professional development tools
-- 📖 **[Coding4Engineers](https://github.com/semil007/Coding4Engineers)** - Code repository for my book: Coding for (Computational) Engineers
-- 🧩 **[neetcode-submissions](https://github.com/semil007/neetcode-submissions)** - My NeetCode.io algorithmic problem submissions
+---
 
-### AI Frameworks & Utilities
-- 🤖 **[SuperClaude](https://github.com/semil007/SuperClaude)** - Configuration framework that enhances Claude Code with specialized commands and cognitive personas
-- 🔄 **[claude-code-router](https://github.com/semil007/claude-code-router)** - Use Claude Code as foundation for coding infrastructure
-- 🎨 **[UI-TARS-desktop](https://github.com/semil007/UI-TARS-desktop)** - Open-source multimodal AI agent stack
+## 🚀 Featured Projects
 
-## Connect
+**[llm.c](https://github.com/semil007/llm.c)** — LLM training implemented in raw C/CUDA for maximum performance and minimal dependencies.
 
-🌐 **Portfolio:** https://getsemil.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/semil-p/  
-✉️ **Email:** semilpm@gmail.com
+**[augmentoolkit](https://github.com/semil007/augmentoolkit)** — Framework for generating custom fine-tuning datasets to build domain-specific LLMs.
+
+**[ocr-lastest](https://github.com/semil007/ocr-lastest)** — Advanced OCR pipeline with layout analysis, reading-order detection, and table recognition across 90+ languages.
+
+**[face-antispoof-onnx](https://github.com/semil007/face-antispoof-onnx)** — Ultra-lightweight face anti-spoofing classifier (~98% accuracy, 600KB), optimized for edge deployment.
+
+**[Eye Disease Detection](https://github.com/semil007/Eye-_Disease_detection_by_cnn)** — CNN-based classifier for detecting eye diseases from medical imaging.
+
+**[SuperClaude](https://github.com/semil007/SuperClaude)** — Configuration framework extending Claude Code with specialized commands and cognitive personas.
+
+**[claude-code-router](https://github.com/semil007/claude-code-router)** — Routing infrastructure extending Claude Code as a foundation for custom coding workflows.
+
+**[UI-TARS-desktop](https://github.com/semil007/UI-TARS-desktop)** — Open-source multimodal desktop AI agent stack.
+
+---
+
+<p align="center"><i>Coding4Engineers · neetcode-submissions — additional repositories on my <a href="https://github.com/semil007">GitHub</a></i></p>
