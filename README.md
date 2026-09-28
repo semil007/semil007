@@ -42,7 +42,7 @@ Open source contributor to widely-used, production-grade ML infrastructure and h
 <tr>
 <td width="90"><img src="https://avatars.githubusercontent.com/u/136984999?s=200&v=4" width="60" /></td>
 <td>
-<b><a href="https://github.com/semil007/vllm">vLLM</a></b> — Industry-standard, high-throughput LLM inference and serving engine used in production by major AI companies and research labs.<br/>
+<b><a href="https://github.com/vllm-project/vllm">vLLM</a></b> — Industry-standard, high-throughput LLM inference and serving engine used in production by major AI companies and research labs.<br/>
 <i>Contribution: inference optimization & serving infrastructure</i>
 </td>
 </tr>
