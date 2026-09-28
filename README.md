@@ -56,7 +56,7 @@ Open source contributor to widely-used, production-grade ML infrastructure and h
 <tr>
 <td width="90"><img src="https://img.shields.io/badge/-Career-6E40C9?style=flat-square&logo=target&logoColor=white" width="70" /></td>
 <td>
-<b><a href="https://github.com/semil007/careerops">CareerOps</a></b> — Open-source career operations platform helping engineers manage job search workflows at scale.<br/>
+<b><a href="https://github.com/semil007/CareerOS">CareerOps</a></b> — Open-source career operations platform helping engineers manage job search workflows at scale.<br/>
 <i>Contribution: platform engineering & AI-driven career tooling</i>
 </td>
 </tr>
