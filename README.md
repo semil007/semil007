@@ -49,7 +49,7 @@ Open source contributor to widely-used, production-grade ML infrastructure and h
 <tr>
 <td width="90"><img src="https://img.shields.io/badge/-Health-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="70" /></td>
 <td>
-<b><a href="https://github.com/semil007/google-medical">Google Health / Medical AI</a></b> — Applied state-of-the-art foundation models to healthcare and medical imaging use cases.<br/>
+<b><a href="https://github.com/Google-Health/medsiglip">Google Health / Medical AI</a></b> — Applied state-of-the-art foundation models to healthcare and medical imaging use cases.<br/>
 <i>Contribution: medical AI model integration & evaluation</i>
 </td>
 </tr>
